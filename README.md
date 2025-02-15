@@ -33,7 +33,7 @@ Relatório em PDF contendo:
 
   <sub>Figura 2 - resolução </sub>
 
-  <img src="/assets/resolucao.png"/>
+  <img src="/assets/resolucao.jpg"/>
 
 </div>
 
